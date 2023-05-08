@@ -1,0 +1,5 @@
+name: Prize drawing
+version: '${project.version}'
+main: me.skyscx.prizedrawing.PrizeDrawing
+api-version: 1.16
+depend: [ProtocolLib]
